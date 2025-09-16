@@ -61,7 +61,7 @@ This project explores **MNIST handwritten digit classification** using different
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/mnist-features-autoencoder.git
+git clone https://github.com/norannali/Feature-Engineering-vs-Raw-Pixels-A-Deep-Dive-into-MNIST-Classification.git
 cd mnist-features-autoencoder
 ````
 
